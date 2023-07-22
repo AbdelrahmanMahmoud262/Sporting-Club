@@ -103,6 +103,16 @@ class HomeFragment : Fragment(), EventsAdapter.OnEventClick {
 
         listEvents.add(EventsModel("Event","12/3" , listNews[1].encodedString))
         listEvents.add(EventsModel("Event", "7/8", listNews[1].encodedString))
+        listEvents.add(EventsModel("Event","12/3" , listNews[1].encodedString))
+        listEvents.add(EventsModel("Event", "7/8", listNews[1].encodedString))
+        listEvents.add(EventsModel("Event","12/3" , listNews[1].encodedString))
+        listEvents.add(EventsModel("Event", "7/8", listNews[1].encodedString))
+        listEvents.add(EventsModel("Event","12/3" , listNews[1].encodedString))
+        listEvents.add(EventsModel("Event", "7/8", listNews[1].encodedString))
+        listEvents.add(EventsModel("Event","12/3" , listNews[1].encodedString))
+        listEvents.add(EventsModel("Event", "7/8", listNews[1].encodedString))
+        listEvents.add(EventsModel("Event","12/3" , listNews[1].encodedString))
+        listEvents.add(EventsModel("Event", "7/8", listNews[1].encodedString))
 
 
 
